@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,gitlab,tailwind,git,r,babel,php,selenium,jest,django,yarn,postman,postgresql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,react-native,sqlite,flutter,mongodb,c,cpp,java,nextjs,mysql,docker,kubernetes,aws,redux,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,sqlite,flutter,mongodb,c,cpp,java,nextjs,mysql,docker,kubernetes,aws,redux,azure" /><br>
 </div>
 
 <br/>
