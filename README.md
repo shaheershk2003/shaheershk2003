@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working in **Philips**
- 
  🌱 I’m currently learning **ReactJS, AWS**
 
  </div>
