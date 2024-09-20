@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **ReactJS, AWS**
+ 🌱I’m currently learning **ReactJS, AWS**
 
  </div>
  
